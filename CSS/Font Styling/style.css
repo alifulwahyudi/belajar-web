@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Arial";
+  font-size: 50px;
+}
+h1 + p {
+  font-family: "Times New Roman";
+}
+h2 {
+  font-family: "VOGA";
+}
+h2 + p {
+  font-family: "sans-serif";
+}
+h3 {
+  font-family: "Arial";
+}
+h3 + p {
+  font-family: "sans-serif";
+}
