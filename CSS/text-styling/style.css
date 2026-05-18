@@ -1,0 +1,24 @@
+/* Belajar mengenai teks dan stylingnya */
+h1 {
+  color: blueviolet;
+  font-size: 50px;
+}
+h1 + p {
+  text-indent: 20px;
+  text-transform: capitalize;
+}
+h2 {
+  letter-spacing: 20px;
+}
+h2 + p {
+  text-align: center;
+}
+h3 {
+  word-spacing: 20px;
+}
+h3 + p {
+  text-decoration: line-through;
+}
+a {
+  text-decoration: none;
+}
